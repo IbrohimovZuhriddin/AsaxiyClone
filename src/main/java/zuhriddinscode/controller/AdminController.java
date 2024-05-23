@@ -14,8 +14,7 @@ import zuhriddinscode.domain.dto.request.PerfumeRequest;
 import zuhriddinscode.domain.dto.request.SearchRequest;
 import zuhriddinscode.domain.dto.response.UserInfoResponse;
 import zuhriddinscode.domain.model.Pages;
-import zuhriddinscode.domain.model.PathConstants;
-import zuhriddinscode.service.AdminService;
+import zuhriddinscode.domain.PathConstants;
 import zuhriddinscode.utils.ControllerUtils;
 
 @Controller

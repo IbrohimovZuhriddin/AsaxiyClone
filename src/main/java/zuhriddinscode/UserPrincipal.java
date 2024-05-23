@@ -4,7 +4,7 @@ import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
-import zuhriddinscode.domain.model.UserEntity;
+import zuhriddinscode.domain.UserEntity;
 
 import java.util.Collection;
 import java.util.Collections;
